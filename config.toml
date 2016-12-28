@@ -1,3 +1,27 @@
 baseurl = "http://blog.ericpai.xyz/"
 title = "EricPai's blog"
 languageCode = "zh-CN"
+paginate = "10"
+theme = "Mainroad"
+googleAnalytics = ""
+
+[Author]
+    name = "Eric Pai"
+    bio = "Talk less, show me the code."
+    avatar = "img/avatar.png"
+
+[Params]
+    subtitle = "Just another site" # Subtitle of your site
+    description = " John Doe's Personal blog about everything" # Description of your site
+    opengraph = true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+
