@@ -72,7 +72,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Baidu Webmaster (China Only)
   # https://zhanzhang.baidu.com/
-  # baiduSiteVerification = "MZ23SPxxfa"
+  baiduSiteVerification = "7gLwelVt3k"
 
   # Sogou Webmaster (China Only)
   # http://zhanzhang.sogou.com/
@@ -84,7 +84,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Baidu Tongji (China Only)
   # https://tongji.baidu.com/
-  # baiduTongji = "e21dc1e8a592188271b615159dc88af7"
+  baiduTongji = "3cdc8937e815878ac58edc0cde2b98bb"
 
   # ICP Number (China Only)
   ICP = "京ICP备17057518号-1"
