@@ -8,7 +8,7 @@ PygmentsCodeFences = true
 canonifyurls = true
 
 # Disqus Username
-disqusShortname = "ericpai"
+# disqusShortname = "ericpai"
 
 # Google Analytics UA number
 googleAnalytics = "UA-108098350-1"
@@ -58,9 +58,9 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   # bilibili = "bilibili_id_number"
 
   # Changyan Comments (China Only)
-  #changyan = false
-  #changyanId = "cyt3toRiB"
-  # changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
+  changyan = true
+  changyanId = "cytgJuzAF"
+  changyanConf = "prod_d62a93280929153869fa0b087d2865bd"
 
   # Google Webmaster
   # https://www.google.com/webmasters/
